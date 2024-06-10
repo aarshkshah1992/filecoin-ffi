@@ -3,7 +3,7 @@ module github.com/aarshkshah1992/filecoin-ffi
 go 1.18
 
 require (
-	github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 v0.0.0-20240610060739-33a20893a092
+	github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 v0.0.2
 	github.com/filecoin-project/go-address v1.1.0
 	github.com/filecoin-project/go-state-types v0.13.1
 	github.com/ipfs/go-block-format v0.0.3
