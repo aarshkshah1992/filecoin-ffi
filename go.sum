@@ -1,7 +1,5 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 v0.0.0-20240610060739-33a20893a092 h1:5ooE0ay9A2WU3ZcqO/fw9njmQvS4KvByaX8DSW4jh2Y=
-github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 v0.0.0-20240610060739-33a20893a092/go.mod h1:CApjIcqCiAcRBh97Bpz/tRKhwqDg8z9u9/3LSgyJ1Z4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
