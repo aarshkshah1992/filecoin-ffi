@@ -2,8 +2,6 @@ module github.com/aarshkshah1992/filecoin-ffi
 
 go 1.18
 
-replace github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 => ../prebuilt-ffi-darwin-arm64
-
 require (
 	github.com/aarshkshah1992/prebuilt-ffi-darwin-arm64 v0.0.0-20240610060739-33a20893a092
 	github.com/filecoin-project/go-address v1.1.0
